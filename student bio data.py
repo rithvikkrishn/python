@@ -1,0 +1,30 @@
+name=input("enter ur  name:")
+age=input("enter ur age:")
+fathername=input("enter ur father name:")
+fathermobilenumber=input("ur fathermobile no:")
+adderss=input("enter ur adderss:")
+collage=input("enter ur collage name:")
+section=input("enter ur class")
+year=input("enter ur year of study")
+qualification=input("qualification:")
+mark=input("enter ur 10th mark")
+bloodgroup=input("enter ur blood group:")
+mobilenumber=input("ur mobile no:")
+
+
+
+
+
+print("=============================================student bio data=================================================")
+print("the student name is :",name)
+print("the student age is :",age)
+print("father name is :",fathername)
+print("fathermobilenumber is :",fathermobilenumber) 	
+print("adderss :",adderss)
+print("collage :",collage)
+print("section :",section)
+print("year of student study :",year)
+print("qualification :",qualification)
+print("10mark :",mark)
+print("blood group :",bloodgroup)
+print("mobile number :",mobilenumber)
