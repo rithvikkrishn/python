@@ -1,0 +1,10 @@
+n= int(input(" Please Enter any Number: "))
+count = 0
+for i in range(2, (n//2 + 1)):
+    if(n % i == 0):
+        count = count + 1
+        break
+if (count == 0 and Number != 1):
+    print(" %d is a Prime Number"%n)
+else:
+    print(" %d is not a Prime Number"%n)
