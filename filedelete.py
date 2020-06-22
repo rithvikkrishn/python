@@ -1,2 +1,2 @@
 import os
-os.rename("hello.txt")
+os.remove("hello.txt")
